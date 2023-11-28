@@ -1,0 +1,6 @@
+C:\Users\Gleb\source\repos\AverkievLR2\AverkievLR2\bin\Debug\AverkievLR2.exe
+C:\Users\Gleb\source\repos\AverkievLR2\AverkievLR2\bin\Debug\AverkievLR2.pdb
+C:\Users\Gleb\source\repos\AverkievLR2\AverkievLR2\obj\Debug\AverkievLR2.csproj.AssemblyReference.cache
+C:\Users\Gleb\source\repos\AverkievLR2\AverkievLR2\obj\Debug\AverkievLR2.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\source\repos\AverkievLR2\AverkievLR2\obj\Debug\AverkievLR2.exe
+C:\Users\Gleb\source\repos\AverkievLR2\AverkievLR2\obj\Debug\AverkievLR2.pdb
