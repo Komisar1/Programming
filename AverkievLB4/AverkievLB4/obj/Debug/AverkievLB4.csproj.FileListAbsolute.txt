@@ -1,0 +1,14 @@
+C:\Users\XIAOMI-admin\source\repos\AverkievLB4\AverkievLB4\bin\Debug\AverkievLB4.exe.config
+C:\Users\XIAOMI-admin\source\repos\AverkievLB4\AverkievLB4\bin\Debug\AverkievLB4.exe
+C:\Users\XIAOMI-admin\source\repos\AverkievLB4\AverkievLB4\bin\Debug\AverkievLB4.pdb
+C:\Users\XIAOMI-admin\source\repos\AverkievLB4\AverkievLB4\obj\Debug\AverkievLB4.csproj.AssemblyReference.cache
+C:\Users\XIAOMI-admin\source\repos\AverkievLB4\AverkievLB4\obj\Debug\AverkievLB4.csproj.CoreCompileInputs.cache
+C:\Users\XIAOMI-admin\source\repos\AverkievLB4\AverkievLB4\obj\Debug\AverkievLB4.exe
+C:\Users\XIAOMI-admin\source\repos\AverkievLB4\AverkievLB4\obj\Debug\AverkievLB4.pdb
+C:\Users\XIAOMI-admin\Desktop\AverkievLB4\AverkievLB4\obj\Debug\AverkievLB4.csproj.AssemblyReference.cache
+C:\Users\XIAOMI-admin\Desktop\AverkievLB4\AverkievLB4\obj\Debug\AverkievLB4.csproj.CoreCompileInputs.cache
+C:\Users\XIAOMI-admin\Desktop\AverkievLB4\AverkievLB4\obj\Debug\AverkievLB4.exe
+C:\Users\XIAOMI-admin\Desktop\AverkievLB4\AverkievLB4\obj\Debug\AverkievLB4.pdb
+C:\Users\XIAOMI-admin\Desktop\AverkievLB4\AverkievLB4\bin\Debug\AverkievLB4.exe.config
+C:\Users\XIAOMI-admin\Desktop\AverkievLB4\AverkievLB4\bin\Debug\AverkievLB4.exe
+C:\Users\XIAOMI-admin\Desktop\AverkievLB4\AverkievLB4\bin\Debug\AverkievLB4.pdb
