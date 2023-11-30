@@ -1,0 +1,7 @@
+C:\Users\XIAOMI-admin\Desktop\AverkievLB5\AverkievLB5\bin\Debug\AverkievLB5.exe.config
+C:\Users\XIAOMI-admin\Desktop\AverkievLB5\AverkievLB5\bin\Debug\AverkievLB5.exe
+C:\Users\XIAOMI-admin\Desktop\AverkievLB5\AverkievLB5\bin\Debug\AverkievLB5.pdb
+C:\Users\XIAOMI-admin\Desktop\AverkievLB5\AverkievLB5\obj\Debug\AverkievLB5.csproj.AssemblyReference.cache
+C:\Users\XIAOMI-admin\Desktop\AverkievLB5\AverkievLB5\obj\Debug\AverkievLB5.csproj.CoreCompileInputs.cache
+C:\Users\XIAOMI-admin\Desktop\AverkievLB5\AverkievLB5\obj\Debug\AverkievLB5.exe
+C:\Users\XIAOMI-admin\Desktop\AverkievLB5\AverkievLB5\obj\Debug\AverkievLB5.pdb
